@@ -1,0 +1,206 @@
+[启动:autowrite_1780228146] 命令: C:\Users\25060\AppData\Local\Programs\Python\Python314\python.exe E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\main.py --phase=autowrite --volume=1 --start-chapter=1 --force
+[环境] 已加载 .env (DEEPSEEK_KEY=已设置)
+[工作目录] E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2
+[Python] C:\Users\25060\AppData\Local\Programs\Python\Python314\python.exe
+2026-05-31 19:49:07,185 - api_client - INFO - 任务 [chapter_draft_key] 路由到 [DeepSeek V4 Pro]
+2026-05-31 19:49:07,904 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:50:30,518 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 19:50:31,262 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:52:32,735 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 19:52:33,457 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:52:44,958 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 19:52:45,676 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:53:03,013 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 19:53:03,721 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:54:38,638 - api_client - INFO - 任务 [chapter_draft_key] 路由到 [DeepSeek V4 Pro]
+2026-05-31 19:54:39,394 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:56:17,269 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 19:56:17,975 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:57:06,586 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 19:57:07,371 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:57:15,759 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 19:57:16,463 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:57:37,025 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 19:57:37,723 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 19:59:52,322 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 19:59:53,098 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:00:03,014 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:00:03,835 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:00:27,602 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 20:00:28,383 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:02:01,257 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:02:03,362 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:02:13,453 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:02:14,184 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:02:35,026 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 20:02:35,778 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:04:29,898 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:04:30,769 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:04:41,100 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:04:41,900 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:05:05,303 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 20:05:06,066 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:06:46,756 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:06:47,554 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:06:57,038 - api_client - INFO - 任务 [chapter_revision] 路由到 [DeepSeek V4 Flash]
+2026-05-31 20:06:57,887 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:07:18,151 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 20:07:18,981 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:09:05,021 - api_client - INFO - 任务 [chapter_draft_key] 路由到 [DeepSeek V4 Pro]
+2026-05-31 20:09:05,735 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-31 20:10:33,993 - api_client - INFO - 任务 [chapter_eval] 路由到 [DeepSeek V4 Pro]
+2026-05-31 20:10:34,851 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+============================================================
+🚀 自动写作模式
+   合格线: 5.5/10（黄金三章: 7.5/10）| 最大修订: 5轮
+   章节: 1 → 600
+   已有章节: []
+============================================================
+──────────────────────────────────────────────────
+📝 第 1 卷 第 1 章 | 白骨沼泽的蘑菇
+──────────────────────────────────────────────────
+👑 黄金三章，合格线: 7.5/10
+==================================================
+阶段 5: 撰写第 1 章
+==================================================
+章节类型: 黄金三章
+  分段续写: 2 段，每段约 1200 字
+  💰 [deepseek_pro] 本次 6,199 tokens, ¥0.0275 | 累计 ¥0.0275
+  第1段完成: 4037字
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_01.md
+  ✓ 第 1 章初稿完成（4037字）
+  💰 [deepseek_pro] 本次 10,350 tokens, ¥0.0476 | 累计 ¥0.0751
+  评分: 7.3/10 (JSON)
+🔧 第 1 章 — 修订第 1 轮 (当前 7.3/10)
+  💰 [deepseek_flash] 本次 5,494 tokens, ¥0.0067 | 累计 ¥0.0818
+  📋 手术简报已生成
+    ## 1. 本次手术目标
+    重点修复第“角色存在感”维度——**女配缺位**与**主角情感驱动薄弱**。同时增加正面角色互动，平衡当前全章只有主角单机与反派压迫的沉闷节奏。其他情节全部维持
+    ## 2. 绝对保护区（禁止修改）
+    - 原文片段：“叮。像玻璃碎裂的声音。接着，他眼前弹出了一块半透明光屏……【系统激活——死亡种田系统已绑定】”
+    - 原文片段：“十二株亡焰菇在同一秒爆炸，紫红色的冲击波直接把五个士兵掀飞出去……”（一直到“惨叫声传出老远才停”）
+    - 原文片段：“判决书砸在脸上时，李默还在想今晚能不能混顿饱饭。”
+  💰 [deepseek_flash] 本次 9,808 tokens, ¥0.0130 | 累计 ¥0.0947
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_01.md
+  已保存修订版 (第1轮)
+  💰 [deepseek_pro] 本次 8,946 tokens, ¥0.0387 | 累计 ¥0.1335
+   修订后评分: 8/10
+✅ 第 1 章通过！(8/10)
+──────────────────────────────────────────────────
+📝 第 1 卷 第 2 章 | 白骨沼泽的蘑菇
+──────────────────────────────────────────────────
+👑 黄金三章，合格线: 7.5/10
+==================================================
+阶段 5: 撰写第 2 章
+==================================================
+章节类型: 黄金三章
+  分段续写: 2 段，每段约 1200 字
+  💰 [deepseek_pro] 本次 6,993 tokens, ¥0.0314 | 累计 ¥0.1649
+  第1段完成: 4850字
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_02.md
+  ✓ 第 2 章初稿完成（4850字）
+  💰 [deepseek_pro] 本次 6,804 tokens, ¥0.0268 | 累计 ¥0.1917
+  评分: 7/10 (JSON)
+🔧 第 2 章 — 修订第 1 轮 (当前 7/10)
+  💰 [deepseek_flash] 本次 5,797 tokens, ¥0.0069 | 累计 ¥0.1985
+  📋 手术简报已生成
+    ## 1. 本次手术目标
+    重点修复 **emotion_variety（情绪词汇重复）** 和 **anti_slop（禁用词“缓缓”）**。替换所有三处“笑了”，去除“缓缓睁开”，改为
+    ## 2. 绝对保护区（禁止修改）
+    - 原文片段："李默把蘑菇放在膝盖上，开始下一步。绑藤蔓。白骨沼泽里到处都是枯死的藤蔓，韧性还在。他捡了几根，用牙咬断成手臂长，开始缠绕蘑菇的菌柄。一圈。两圈。
+    - 原文片段："轰！！！紫红色的火焰冲天而起，冲击波掀起泥沼的地皮，把五名士兵同时掀飞。擦剑的那个最惨，他站得最近，整个身体被炸得横飞出去，砸在枯树干上，撞断了
+    ## 3. 具体施工指令
+  💰 [deepseek_flash] 本次 11,110 tokens, ¥0.0148 | 累计 ¥0.2133
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_02.md
+  已保存修订版 (第1轮)
+  💰 [deepseek_pro] 本次 11,091 tokens, ¥0.0522 | 累计 ¥0.2655
+   修订后评分: 6/10
+🔧 第 2 章 — 修订第 2 轮 (当前 6/10)
+  💰 [deepseek_flash] 本次 5,611 tokens, ¥0.0067 | 累计 ¥0.2722
+  📋 手术简报已生成
+    ## 1. 本次手术目标
+    **重点修复最致命维度：逻辑一致性（4分）。** 核心硬伤：主角扑倒后，烙印士兵追到枯树边却未发现/不补刀，行为不合理。**次要修复：情绪重复**，替换所有“不
+    ## 2. 绝对保护区（禁止修改）
+    - 原文片段："吃我一颗——蘑菇榴弹。"……"轰！！！紫红色的火焰冲天而起……"
+    - 原文片段：“菌丝悄悄爬上皮肤、神秘生物睁眼”的章末结束段落，即“远处，白骨沼泽最深处，一双紫灰色的眼睛睁开。瞳孔裂成两瓣，像什么冷血东西刚睡醒。”及之前的所
+    - 原文片段：“他伸手，抓住蘑菇的菌柄……技能解锁：植物安抚”整段技术描写。
+  💰 [deepseek_flash] 本次 11,215 tokens, ¥0.0149 | 累计 ¥0.2872
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_02.md
+  已保存修订版 (第2轮)
+  💰 [deepseek_pro] 本次 8,728 tokens, ¥0.0379 | 累计 ¥0.3251
+   修订后评分: 6/10
+🔧 第 2 章 — 修订第 3 轮 (当前 6/10)
+  💰 [deepseek_flash] 本次 6,128 tokens, ¥0.0074 | 累计 ¥0.3325
+  📋 手术简报已生成
+    ## 1. 本次手术目标
+    重点修复情绪表达单一与反AI味问题。替换所有重复的“血沫子从牙缝挤出来，他咧开的嘴像在笑”三次中出现两次（保留第一次），并用不同动作替换；全文删除70%的“然后
+    ## 2. 绝对保护区（禁止修改）
+    - 原文片段：“他小心地拔蘑菇。不能用力。蘑菇太脆，菌柄表面全是裂纹，轻轻一捏都能碎……他用指尖一点点扒开泥土，露出根系。菌丝缠在一根人类肋骨上……他低头，用匕
+    - 原文片段：“蘑菇手雷划出一道紫红色的弧线，精准落进营火正中心。营火炸开。木柴飞溅，火星四散，蘑菇菌盖在接触到火焰的那一秒裂开——然后——轰！！！……冲击波掀
+    - 原文片段：“他趴在泥里，用最后的力气扯开嘴角，吐出一口血。‘没了马……’‘……你们追不上我。’身后传来烙印士兵的怒吼。‘死灵崽子——！’……沼泽深处，马蹄声
+  💰 [deepseek_flash] 本次 11,382 tokens, ¥0.0150 | 累计 ¥0.3476
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_02.md
+  已保存修订版 (第3轮)
+  💰 [deepseek_pro] 本次 9,555 tokens, ¥0.0430 | 累计 ¥0.3906
+   修订后评分: 7/10
+🔧 第 2 章 — 修订第 4 轮 (当前 7/10)
+  💰 [deepseek_flash] 本次 5,843 tokens, ¥0.0069 | 累计 ¥0.3975
+  📋 手术简报已生成
+    ## 1. 本次手术目标
+    重点修复**情感多样性**维度（得分6，最弱项）的**情绪词复读**问题，以及**爽点间距**（两爽点间1200字无爽点）。
+    替换所有重复的“咧嘴”，在爬行段插入1个微型爽点。其他情节、节奏、逻辑全部维持原状。
+    ## 2. 绝对保护区（禁止修改）
+    - 原文片段：“他用枯藤绑蘑菇成手雷的细节，‘一圈。两圈。第三圈的时候，蘑菇又抖了。’”
+    - 原文片段：“扔蘑菇前的倒计时与‘喂’之后士兵反应的交叉剪辑”（即从“李默举起蘑菇手雷”到“他喊了一声‘喂’”之间的交叉描写）
+  💰 [deepseek_flash] 本次 11,163 tokens, ¥0.0150 | 累计 ¥0.4125
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_02.md
+  已保存修订版 (第4轮)
+  💰 [deepseek_pro] 本次 8,953 tokens, ¥0.0390 | 累计 ¥0.4514
+   修订后评分: 7/10
+🔧 第 2 章 — 修订第 5 轮 (当前 7/10)
+  💰 [deepseek_flash] 本次 5,856 tokens, ¥0.0070 | 累计 ¥0.4585
+  📋 手术简报已生成
+    ## 1. 本次手术目标
+    重点修复**逻辑一致性（距离模糊）** 和**爽点节奏（拔爆裂苔插入）**。
+    - 在环境描写中补一句方位，消除“马在二十米外”与“他离营火14米”的几何矛盾。
+    - 将拔爆裂苔的决策从倒计时中断中剥离，独立成两短段，保持紧张感不被打断。
+    其他情节（包括所有锁定的好段落、炸营火、章末钩子等）全部维持原状。
+    ## 2. 绝对保护区（禁止修改）
+    - 原文片段：“吃我一颗——蘑菇榴弹。”
+  💰 [deepseek_flash] 本次 10,989 tokens, ¥0.0145 | 累计 ¥0.4730
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_02.md
+  已保存修订版 (第5轮)
+  💰 [deepseek_pro] 本次 9,209 tokens, ¥0.0411 | 累计 ¥0.5141
+   修订后评分: 8/10
+✅ 第 2 章通过！(8/10)
+──────────────────────────────────────────────────
+📝 第 1 卷 第 3 章 | 白骨沼泽的蘑菇
+──────────────────────────────────────────────────
+👑 黄金三章，合格线: 7.5/10
+==================================================
+阶段 5: 撰写第 3 章
+==================================================
+章节类型: 黄金三章
+  分段续写: 2 段，每段约 1200 字
+  💰 [deepseek_pro] 本次 6,665 tokens, ¥0.0293 | 累计 ¥0.5433
+  第1段完成: 3900字
+✓ 已保存: E:\0prj\13autonovel\2prj\autonovel_v1.0.0\AutoNovel-CN-v2\outputs\chapters\ch_03.md
+  ✓ 第 3 章初稿完成（3900字）
+  💰 [deepseek_pro] 本次 9,638 tokens, ¥0.0454 | 累计 ¥0.5887
+  评分: 8/10 (JSON)
+✅ 第 3 章通过！(8/10)
+──────────────────────────────────────────────────
+📝 第 1 卷 第 4 章 | 白骨沼泽的蘑菇
+──────────────────────────────────────────────────
+⏸️  第 4 章未写，无法继续。请先写前面的章节。
+============================================================
+🏁 自动写作完成
+============================================================
+==================================================
+📊 Token 使用统计
+==================================================
+总调用次数: 24
+总 Tokens: 203,527 (输入 124,889 + 输出 78,638)
+预估费用: ¥0.5887
+==================================================
+[完成:autowrite_1780228146] 退出码: 0
