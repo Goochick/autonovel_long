@@ -1,0 +1,21 @@
+{
+  "phase": "seed",
+  "chapter_count": 30,
+  "words_per_chapter": 2000,
+  "sub_state": {
+    "current_volume": 1,
+    "current_chapter": 4,
+    "current_draft_round": 0,
+    "volume_status": {}
+  },
+  "foundation_rounds": 0,
+  "foundation_score": 0,
+  "lore_score": 0,
+  "last_weak_dimension": "",
+  "retry_count": {},
+  "force_passed": [],
+  "logic_debts": [],
+  "canon_version": 0,
+  "history": [],
+  "last_updated": "2026-05-31T20:12:47.215128"
+}
